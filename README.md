@@ -37,13 +37,12 @@ To run the app locally, follow these steps:
    git clone https://github.com/theyarina/gratitude-journal.git
    cd gratitude-journal
 
-Install Dependencies:
+2. Install Dependencies:
 
-   ```bash
   npm install
-  Run the App:
 
-   ```bash
+3. Run the App:
+
   npm run dev
 
 Open http://localhost:3000 in your browser to see the app.
